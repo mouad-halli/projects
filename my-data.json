@@ -55,7 +55,7 @@
                     {
                         "name":"XO - 3D Three.js Online Runtime Game",
                         "description":"XO is a Three.js MERN stack Socket.io online runtime game, bundled with chat and live streaming .",
-                        "img":"images/taskslists.png",
+                        "img":"https://www.pngkey.com/png/detail/205-2056775_ios-tic-tac-toe-with-an-unbeatable-ai.png",
                         "bullets":[
                            "- Users can play the famous Tic-tac-toe game with more features, they have access to an ingame chat .",
                            "- Users can also watch a live streaming of Games being played .",
@@ -71,7 +71,7 @@
                     {
                         "name": "Gundam - 3D Three.js Interface",
                         "description": "Gundam Project is a Three.js 3D interface with a customizable 3D Model .",
-                        "img": "images/taskslists.png",
+                        "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1816670/capsule_616x353.jpg?t=1675313974",
                         "bullets": [
                             "- Users have access to a 3D Work interface and a 3D customizable Gundam Sazabi model .",
                             "- Users can customize all parts, colour, and shadow boldness of their Gundam Sazabi model"
