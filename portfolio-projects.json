@@ -3,7 +3,7 @@
                     {
                         "name": "ChatPals - Chat Application",
                         "description": "ChatPals is a Single page Chat Web-Application with real-time ui updates where you can find friends, receive friend requests, manage your friends list and chat.",
-                        "img": "https://github.com/mouad-halli/ChatPals-Web-App/blob/main/readme-imgs/channel-computer.png",
+                        "img": "https://github.com/mouad-halli/ChatPals-Web-App/blob/main/readme-imgs/channel-computer.png?raw=true",
                         "skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Socket.io"],
                         "source": "https://github.com/mouad-halli/ChatPals-Web-App",
                         "live": "https://4tninq-3000.csb.app",
@@ -28,7 +28,7 @@
                         "preview": ""
                     },
                     {
-                        "name": "ChatPals Api - Rest-Api",
+                        "name": "ChatPals Server - Rest-Api",
                         "description": "ChatPals Api is a restful api with MVC architectural pattern built using Nodes.js that manages OAuth 2.0(google Oauth) and JWT(access and refresh tokens) authentication, input validation, image upload, real-time friend requests and direct-messages chat.",
                         "img": "images/ft_transcendence.png",
                         "skills": ["TypeScript", "Node.js", "Express.js", "Socket.io", "MongoDB"],
