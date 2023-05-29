@@ -18,8 +18,17 @@
 			"preview": ""
 		},
 		{
+			"name": "Halli's BookShop - Rest-Api",
+			"description": "Halli's BookShop Api is a restful api built using Node.js. support OAuth 2.0(google Oauth) and JWT authentication, input validation, file upload, Cart management, product(book) CRUD, Stripe payment Gateway.",
+			"img": "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*1ESM-l4hMfPRsrHbKPIhGQ.jpeg",
+			"skills": ["TypeScript", "Javascript", "Node.js", "Express.js", "MongoDB", "Stripe"],
+			"source": "https://github.com/mouad-halli/Hallis-BookShop-server",
+			"live": "",
+			"preview": ""
+		},
+		{
 			"name": "ft_transcendence - Rest-Api",
-			"description": "ft_transcendence is a restful api with MVC architectural pattern built using Nest.js that manages OAuth 2.0(42 authentication) and Two-Factor(OTP) authentication, input validation, image upload, real-time friend requests, direct-messages chat, chat channels creation with role based membership. The server and the database each runs in a dedicated docker container.",
+			"description": "ft_transcendence is a restful api with MVC architectural pattern built using Nest.js. support OAuth 2.0(42 authentication) and Two-Factor(OTP) authentication, input validation, file upload, real-time friend requests, direct-messages chat, chat channels creation with role based membership. The server and the database each runs in a dedicated docker container.",
 			"img": "https://asapoon.com/wp/wp-content/uploads/2022/01/typescript-post%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.png",
 			"skills": ["TypeScript", "Nest-js", "TypeORM", "PostgreSQL", "Socket.io", "Docker", "Docker-Compose"],
 			"source": "https://github.com/mouad-halli/ft_transcendence",
@@ -28,7 +37,7 @@
 		},
 		{
 			"name": "ChatPals Server - Rest-Api",
-			"description": "ChatPals Api is a restful api with MVC architectural pattern built using Nodes.js that manages OAuth 2.0(google Oauth) and JWT(access and refresh tokens) authentication, input validation, image upload, real-time friend requests and direct-messages chat.",
+			"description": "ChatPals Api is a restful api with MVC architectural pattern built using Nodes.js. support OAuth 2.0(google Oauth) and JWT(access and refresh tokens) authentication, input validation, file upload, real-time friend requests and direct-messages chat.",
 			"img": "https://assets.toptal.io/images?url=https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1275224/regular_1708x683_cover-secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png",
 			"skills": ["TypeScript", "Node.js", "Express.js", "Socket.io", "MongoDB"],
 			"source": "https://github.com/mouad-halli/ChatPals-server",
