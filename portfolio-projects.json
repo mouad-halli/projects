@@ -38,7 +38,7 @@
 	],
 	"otherProjects": [
 		{
-			"name": "ft_services - System Administration and Networking project",
+			"name": "ft_services",
 			"description": "Setting up an infrastructure (kubernetes-cluster) of services that each runs in a dedicated Docker container, configured With LivnessProbe, PersistentVolumeClaim and load balancing.",
 			"img": "",
 			"skills": ["Docker", "Kubernetes", "Nginx", "PhpMyAdmin", "Grafana", "influxDB", "metalLB", "Ftps"],
@@ -47,7 +47,7 @@
 			"preview": ""
 		},
 		{
-			"name": "ft_server - System Administration project",
+			"name": "ft_server",
 			"description": "Setting up an Nginx web server in a Docker container that runs several services, Wordpress, phpMyAdmin and a mariaDB database.",
 			"img": "",
 			"skills": ["Docker", "Nginx", "PhpMyAdmin"],
