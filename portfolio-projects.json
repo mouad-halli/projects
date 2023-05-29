@@ -36,7 +36,7 @@
 			"preview": ""
 		}
 	],
-	"other-projects": [{
+	"otherProjects": [{
 			"name": "ft_containers - data structures",
 			"description": "Recreated some of the C++ standard library containers with their iterators. the containers are stack, vector and map with AVL binary search tree as inner data structure.",
 			"img": "",
