@@ -21,7 +21,7 @@
                     {
                         "name": "ft_transcendence - Rest-Api",
                         "description": "ft_transcendence is a restful api with MVC architectural pattern built using Nest.js that manages OAuth 2.0(42 authentication) and Two-Factor(OTP) authentication, input validation, image upload, real-time friend requests, direct-messages chat, chat channels creation with role based membership. server and database each runs in a dedicated docker container.",
-                        "img": "images/ft_transcendence.png",
+                        "img": "https://asapoon.com/wp/wp-content/uploads/2022/01/typescript-post%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.png",
                         "skills": ["TypeScript", "Nest-js", "TypeORM", "PostgreSQL", "Socket.io", "Docker", "Docker-Compose"],
                         "source": "https://github.com/mouad-halli/ft_transcendence",
                         "live": "",
