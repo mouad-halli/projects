@@ -2,7 +2,7 @@
     "projects": [
                     {
                         "name": "Halli's BookShop - E-commerce store",
-                        "description": "Halli's BookShop is Single page Application Ecommerce store where users can search and filter books add products to their Cart, Checkout and buy books using Stripe Gateway. they can also sell books, manage their products, track their Orders and update their personal informations from a dashboard.",
+                        "description": "Halli's BookShop is Single page Application Ecommerce store where users can search and filter books add products to their Cart, Checkout and buy books using Stripe Gateway. they can also sell books, manage their products, track their Orders and update their personal informations from the App's dashboard.",
                         "img": "https://github.com/mouad-halli/Hallis-BookShop/blob/main/readme-imgs/cart-computer.PNG?raw=true",
                         "skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Stripe"],
                         "source": "https://github.com/mouad-halli/Hallis-BookShop",
