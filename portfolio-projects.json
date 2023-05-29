@@ -75,7 +75,7 @@
 		},
 		{
 			"name": "Tic Tac Toe",
-			"description": "Recreated a basic version of the famous Tic Tac Toe game with a turn based game mode.",
+			"description": "Recreated a basic version of the famous Tic Tac Toe game.",
 			"img": "",
 			"skills": ["Html", "Css", "Javascript"],
 			"source": "https://github.com/mouad-halli/Tic_Tac_Toe",
