@@ -1,40 +1,76 @@
 {
-    "projects": [
-                    {
-                        "name": "Halli's BookShop - E-commerce store",
-                        "description": "Halli's BookShop is Single page Application Ecommerce store where users can search and filter books add products to their Cart, Checkout and buy books using Stripe Gateway. they can also sell books, manage their products, track their Orders and update their personal informations from the App's dashboard.",
-                        "img": "https://github.com/mouad-halli/Hallis-BookShop/blob/main/readme-imgs/cart-computer.PNG?raw=true",
-                        "skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Stripe"],
-                        "source": "https://github.com/mouad-halli/Hallis-BookShop",
-                        "live": "https://qu86u3-3000.csb.app",
-                        "preview": ""
-                    },
-                    {
-                        "name": "ChatPals - Chat Application",
-                        "description": "ChatPals is a Single page Chat Web-Application with real-time ui updates where you can find friends, receive friend requests, manage your friends list and chat.",
-                        "img": "https://github.com/mouad-halli/ChatPals-Web-App/blob/main/readme-imgs/channel-computer.png?raw=true",
-                        "skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Socket.io"],
-                        "source": "https://github.com/mouad-halli/ChatPals-Web-App",
-                        "live": "https://4tninq-3000.csb.app",
-                        "preview": ""
-                    },
-                    {
-                        "name": "ft_transcendence - Rest-Api",
-                        "description": "ft_transcendence is a restful api with MVC architectural pattern built using Nest.js that manages OAuth 2.0(42 authentication) and Two-Factor(OTP) authentication, input validation, image upload, real-time friend requests, direct-messages chat, chat channels creation with role based membership. The server and the database each runs in a dedicated docker container.",
-                        "img": "https://asapoon.com/wp/wp-content/uploads/2022/01/typescript-post%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.png",
-                        "skills": ["TypeScript", "Nest-js", "TypeORM", "PostgreSQL", "Socket.io", "Docker", "Docker-Compose"],
-                        "source": "https://github.com/mouad-halli/ft_transcendence",
-                        "live": "",
-                        "preview": ""
-                    },
-                    {
-                        "name": "ChatPals Server - Rest-Api",
-                        "description": "ChatPals Api is a restful api with MVC architectural pattern built using Nodes.js that manages OAuth 2.0(google Oauth) and JWT(access and refresh tokens) authentication, input validation, image upload, real-time friend requests and direct-messages chat.",
-                        "img": "https://assets.toptal.io/images?url=https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1275224/regular_1708x683_cover-secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png",
-                        "skills": ["TypeScript", "Node.js", "Express.js", "Socket.io", "MongoDB"],
-                        "source": "https://github.com/mouad-halli/ChatPals-server",
-                        "live": "",
-                        "preview": ""
-                    }
-    ]
+	"projects": [{
+			"name": "Halli's BookShop - E-commerce store",
+			"description": "Halli's BookShop is Single page Application Ecommerce store where users can search and filter books add products to their Cart, Checkout and buy books using Stripe Gateway. they can also sell books, manage their products, track their Orders and update their personal informations from the App's dashboard.",
+			"img": "https://github.com/mouad-halli/Hallis-BookShop/blob/main/readme-imgs/cart-computer.PNG?raw=true",
+			"skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Stripe"],
+			"source": "https://github.com/mouad-halli/Hallis-BookShop",
+			"live": "https://qu86u3-3000.csb.app",
+			"preview": ""
+		},
+		{
+			"name": "ChatPals - Chat Application",
+			"description": "ChatPals is a Single page Chat Web-Application with real-time ui updates where you can find friends, receive friend requests, manage your friends list and chat.",
+			"img": "https://github.com/mouad-halli/ChatPals-Web-App/blob/main/readme-imgs/channel-computer.png?raw=true",
+			"skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Socket.io"],
+			"source": "https://github.com/mouad-halli/ChatPals-Web-App",
+			"live": "https://4tninq-3000.csb.app",
+			"preview": ""
+		},
+		{
+			"name": "ft_transcendence - Rest-Api",
+			"description": "ft_transcendence is a restful api with MVC architectural pattern built using Nest.js that manages OAuth 2.0(42 authentication) and Two-Factor(OTP) authentication, input validation, image upload, real-time friend requests, direct-messages chat, chat channels creation with role based membership. The server and the database each runs in a dedicated docker container.",
+			"img": "https://asapoon.com/wp/wp-content/uploads/2022/01/typescript-post%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.png",
+			"skills": ["TypeScript", "Nest-js", "TypeORM", "PostgreSQL", "Socket.io", "Docker", "Docker-Compose"],
+			"source": "https://github.com/mouad-halli/ft_transcendence",
+			"live": "",
+			"preview": ""
+		},
+		{
+			"name": "ChatPals Server - Rest-Api",
+			"description": "ChatPals Api is a restful api with MVC architectural pattern built using Nodes.js that manages OAuth 2.0(google Oauth) and JWT(access and refresh tokens) authentication, input validation, image upload, real-time friend requests and direct-messages chat.",
+			"img": "https://assets.toptal.io/images?url=https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1275224/regular_1708x683_cover-secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png",
+			"skills": ["TypeScript", "Node.js", "Express.js", "Socket.io", "MongoDB"],
+			"source": "https://github.com/mouad-halli/ChatPals-server",
+			"live": "",
+			"preview": ""
+		}
+	],
+	"other-projects": [{
+			"name": "ft_containers - data structures",
+			"description": "Recreated some of the C++ standard library containers with their iterators. the containers are stack, vector and map with AVL binary search tree as inner data structure.",
+			"img": "",
+			"skills": ["C++"],
+			"source": "https://github.com/mouad-halli/1337_ft_containers",
+			"live": "",
+			"preview": ""
+		},
+		{
+			"name": "ft_services - System Administration and Networking project",
+			"description": "As an introduction to kubernetes, setting up an infrastructure of different services (nginx, wordpress, phpmyadmin, mySQL, ftps, grafana, influxDB). each service runs in a dedicated Docker container built under Alpine Linux, The Services are configured With LivnessProbe for containers health check, PersistentVolumeClaim for data persistence, and Load Balancing is done with metalLB",
+			"img": "",
+			"skills": ["Docker", "Kubernetes", "Nginx", "PhpMyAdmin", "Grafana", "influxDB", "metalLB", "Ftps"],
+			"source": "https://github.com/mouad-halli/1337_ft_services",
+			"live": "",
+			"preview": ""
+		},
+		{
+			"name": "ft_server - System Administration project",
+			"description": "Setting up an Nginx web server in a Docker container that runs several services, Wordpress, phpMyAdmin and a mariaDB database.",
+			"img": "",
+			"skills": ["Docker", "Nginx", "PhpMyAdmin"],
+			"source": "https://github.com/mouad-halli/1337_ft_server",
+			"live": "",
+			"preview": ""
+		},
+		{
+			"name": "Tic Tac Toe",
+			"description": "Recreated a basic version of the famous Tic Tac Toe game with a turn based game mode.",
+			"img": "",
+			"skills": ["Html", "Css", "Javascript"],
+			"source": "https://github.com/mouad-halli/Tic_Tac_Toe",
+			"live": "",
+			"preview": ""
+		}
+	]
 }
