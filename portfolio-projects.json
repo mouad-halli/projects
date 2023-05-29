@@ -39,7 +39,7 @@
 	"otherProjects": [
 		{
 			"name": "ft_services - System Administration and Networking project",
-			"description": "As an introduction to kubernetes, setting up an infrastructure of different services (nginx, wordpress, phpmyadmin, mySQL, ftps, grafana, influxDB). each service runs in a dedicated Docker container built under Alpine Linux, The Services are configured With LivnessProbe for containers health check, PersistentVolumeClaim for data persistence, and Load Balancing is done with metalLB",
+			"description": "As an introduction to kubernetes, setting up an infrastructure of different services (nginx, wordpress, phpmyadmin, mySQL, ftps, grafana, influxDB). each service runs in a dedicated Docker container built under Alpine Linux, The Services are configured With LivnessProbe for containers health check, PersistentVolumeClaim for data persistence, and Load Balancing is done with metalLB.",
 			"img": "",
 			"skills": ["Docker", "Kubernetes", "Nginx", "PhpMyAdmin", "Grafana", "influxDB", "metalLB", "Ftps"],
 			"source": "https://github.com/mouad-halli/1337_ft_services",
