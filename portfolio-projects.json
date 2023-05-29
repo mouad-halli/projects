@@ -36,15 +36,7 @@
 			"preview": ""
 		}
 	],
-	"otherProjects": [{
-			"name": "ft_containers - data structures",
-			"description": "Recreated some of the C++ standard library containers with their iterators. the containers are stack, vector and map with AVL binary search tree as inner data structure.",
-			"img": "",
-			"skills": ["C++"],
-			"source": "https://github.com/mouad-halli/1337_ft_containers",
-			"live": "",
-			"preview": ""
-		},
+	"otherProjects": [
 		{
 			"name": "ft_services - System Administration and Networking project",
 			"description": "As an introduction to kubernetes, setting up an infrastructure of different services (nginx, wordpress, phpmyadmin, mySQL, ftps, grafana, influxDB). each service runs in a dedicated Docker container built under Alpine Linux, The Services are configured With LivnessProbe for containers health check, PersistentVolumeClaim for data persistence, and Load Balancing is done with metalLB",
@@ -60,6 +52,15 @@
 			"img": "",
 			"skills": ["Docker", "Nginx", "PhpMyAdmin"],
 			"source": "https://github.com/mouad-halli/1337_ft_server",
+			"live": "",
+			"preview": ""
+		},
+		{
+			"name": "ft_containers - data structures",
+			"description": "Recreated some of the C++ standard library containers with their iterators. the containers are stack, vector and map with AVL binary search tree as inner data structure.",
+			"img": "",
+			"skills": ["C++"],
+			"source": "https://github.com/mouad-halli/1337_ft_containers",
 			"live": "",
 			"preview": ""
 		},
