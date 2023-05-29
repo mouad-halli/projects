@@ -2,7 +2,7 @@
     "projects": [
                     {
                         "name": "Halli's BookShop - E-commerce store",
-                        "description": "Halli's BookShop is Single page Application Ecommerce store where users can search and filter books add products to their Cart, Checkout and buy books using Stripe Gateway. they can also sell books, manage their products, track their Orders and update their personal informations from a dashboard, <b>Click the Srouce button to view project readme, pictures and videos</b>.",
+                        "description": "Halli's BookShop is Single page Application Ecommerce store where users can search and filter books add products to their Cart, Checkout and buy books using Stripe Gateway. they can also sell books, manage their products, track their Orders and update their personal informations from a dashboard.",
                         "img": "https://github.com/mouad-halli/Hallis-BookShop/blob/main/readme-imgs/cart-computer.PNG?raw=true",
                         "skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Stripe"],
                         "source": "https://github.com/mouad-halli/Hallis-BookShop",
@@ -11,7 +11,7 @@
                     },
                     {
                         "name": "ChatPals - Chat Application",
-                        "description": "ChatPals is a Single page Chat Web-Application with real-time ui updates where you can find friends, receive friend requests, manage your friends list and chat. <b>Click the Srouce button to view project readme, pictures and videos</b>.",
+                        "description": "ChatPals is a Single page Chat Web-Application with real-time ui updates where you can find friends, receive friend requests, manage your friends list and chat.",
                         "img": "https://github.com/mouad-halli/ChatPals-Web-App/blob/main/readme-imgs/channel-computer.png?raw=true",
                         "skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Socket.io"],
                         "source": "https://github.com/mouad-halli/ChatPals-Web-App",
