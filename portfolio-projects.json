@@ -30,7 +30,7 @@
                     {
                         "name": "ChatPals Server - Rest-Api",
                         "description": "ChatPals Api is a restful api with MVC architectural pattern built using Nodes.js that manages OAuth 2.0(google Oauth) and JWT(access and refresh tokens) authentication, input validation, image upload, real-time friend requests and direct-messages chat.",
-                        "img": "images/ft_transcendence.png",
+                        "img": "https://assets.toptal.io/images?url=https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1275224/regular_1708x683_cover-secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png",
                         "skills": ["TypeScript", "Node.js", "Express.js", "Socket.io", "MongoDB"],
                         "source": "https://github.com/mouad-halli/ChatPals-server",
                         "live": "",
