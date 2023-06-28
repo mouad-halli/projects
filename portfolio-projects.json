@@ -1,7 +1,7 @@
 {
 	"projects": [{
-			"name": "Halli's BookShop - E-commerce store",
-			"description": "Halli's BookShop is Single page Application Ecommerce store where users can search and filter books add products to their Cart, Checkout and buy books using Stripe Gateway. they can also sell books, manage their products, track their Orders and update their personal informations from the App's dashboard.",
+			"name": "Halli's BookShop - peer-to-peer Ecommerce platform",
+			"description": "Halli's BookShop is Single page Web Application, peer-to-peer Ecommerce platform with stripe gateway integration, where users can sell and buy books, with multiple features like products search page, shopping cart, and an admin dashboard that help users sell and manage their listings, manage orders, and also track their sales, expenses, and orders statistics.",
 			"img": "https://github.com/mouad-halli/Hallis-BookShop/blob/main/readme-imgs/cart-computer.PNG?raw=true",
 			"skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Stripe"],
 			"source": "https://github.com/mouad-halli/Hallis-BookShop",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "ChatPals - Chat Application",
-			"description": "ChatPals is a Single page Chat Web-Application with real-time ui updates where you can find friends, receive friend requests, manage your friends list and chat.",
+			"description": "ChatPals is a Single page Chat Web Application with real-time ui updates where users can find friends, receive requests, manage their contacts list and chat.",
 			"img": "https://github.com/mouad-halli/ChatPals-Web-App/blob/main/readme-imgs/channel-computer.png?raw=true",
 			"skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Socket.io"],
 			"source": "https://github.com/mouad-halli/ChatPals-Web-App",
