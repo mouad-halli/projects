@@ -3,7 +3,7 @@
 			"name": "Halli's BookShop - peer-to-peer Ecommerce platform",
 			"description": "Halli's BookShop is Single page Web Application, peer-to-peer Ecommerce platform with stripe gateway integration, where users can sell and buy books, with multiple features like products search page, shopping cart, and an admin dashboard that help users sell and manage their listings, manage orders, and also track their sales, expenses, and orders statistics.",
 			"img": "https://github.com/mouad-halli/Hallis-BookShop/blob/main/readme-imgs/cart-computer.PNG?raw=true",
-			"skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Stripe"],
+			"skills": ["TypeScript", "React", "Tailwind", "Node.js", "MongoDB", "Stripe"],
 			"source": "https://github.com/mouad-halli/Hallis-BookShop",
 			"live": "https://qu86u3-3000.csb.app",
 			"preview": ""
@@ -12,7 +12,7 @@
 			"name": "ChatPals - Chat Application",
 			"description": "ChatPals is a Single page Chat Web Application with real-time ui updates where users can find friends, receive requests, manage their contacts list and chat.",
 			"img": "https://github.com/mouad-halli/ChatPals-Web-App/blob/main/readme-imgs/channel-computer.png?raw=true",
-			"skills": ["TypeScript", "React", "Tailwind-Css", "Node.js", "MongoDB", "Socket.io"],
+			"skills": ["TypeScript", "React", "Tailwind", "Node.js", "MongoDB", "Socket.io"],
 			"source": "https://github.com/mouad-halli/ChatPals-Web-App",
 			"live": "https://4tninq-3000.csb.app",
 			"preview": ""
